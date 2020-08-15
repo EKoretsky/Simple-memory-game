@@ -1,0 +1,11 @@
+.App {
+  width: 88.89%;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.round {
+  display: block;
+  font-size: 50px;
+  margin-bottom: 50px;
+}

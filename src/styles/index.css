@@ -1,0 +1,42 @@
+@import "./_reset.css";
+
+#root {
+  padding-top: 100px;
+}
+
+.h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.red {
+  background: red;
+}
+
+.black {
+  background: black;
+}
+
+.gray {
+  background: gray;
+}
+
+.purple {
+  background: purple;
+}
+
+.blue {
+  background: blue;
+}
+
+.green {
+  background: green;
+}
+
+.orange {
+  background: orange;
+}
+
+.yellow {
+  background: yellow;
+}
